@@ -1,6 +1,10 @@
-# Dune Query Repo
+# XMTP Dune Query Repo
+This repository manages XMTP Dune queries and CSVs, forked from [DuneQueryRepo](https://github.com/duneanalytics/DuneQueryRepo)
 
-A template for creating repos to [manage your Dune queries](https://dune.mintlify.app/api-reference/crud/endpoint/create) and any [CSVs as Dune tables](https://dune.mintlify.app/api-reference/upload/endpoint/upload).
+---
+
+# Dune Query Repo
+A template for creating repos to manage your Dune queries and any CSVs as Dune tables.
 
 ### Setup Your Repo
 
